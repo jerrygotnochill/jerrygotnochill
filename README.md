@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me @chaitanyashilwant81@gmail.com
 - 😄 Pronouns: he/his
-- 
 - ⚡ Fun fact: i don't kmow anything about this page i am new user
+
+
 
 <!---
 jerrygotnochill/jerrygotnochill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
