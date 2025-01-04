@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me @chaitanyashilwant81@gmail.com
-- 😄 Pronouns: he/hiss
+- 😄 Pronouns: he/his
+- 
 - ⚡ Fun fact: i don't kmow anything about this page i am new user
 
 <!---
